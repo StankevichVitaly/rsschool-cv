@@ -36,3 +36,5 @@ My goal is to become a professional web developer. I am a purposeful and highly 
 I went through 2 courses that relate to frontend in IT-school, [them site](https://myfreedom.by).
 7. **Education:**
 Complete university Education (BNTU).
+8. **English:**
+I studied at the courses Duolingo, Lingualeo.
