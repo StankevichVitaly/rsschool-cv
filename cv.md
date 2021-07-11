@@ -32,3 +32,7 @@ My goal is to become a professional web developer. I am a purposeful and highly 
     return money;
     }
     ```
+6. **Experience:**
+I went through 2 courses that relate to frontend in IT-school, [them site](https://myfreedom.by).
+7. **Education:**
+Complete university Education (BNTU).
