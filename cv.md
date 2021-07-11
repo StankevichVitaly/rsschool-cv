@@ -10,3 +10,25 @@ My goal is to become a professional web developer. I am a purposeful and highly 
     * JavaScript(ES5 and ES6(in the process of studying));
     * Git (basics);
     * Soft: Visual Studio Code.
+5. **Example of my code:**
+    ```javascript
+   function makeExchange(amount) {
+    var money = {
+      H: 50,
+      Q: 25,
+      D: 10,
+      N: 5,
+      P: 1
+    };
+    for (var key in money) {
+      if (amount >= money[key]) {
+        var a = amount % money[key];
+        money[key] = Math.floor(amount / money[key]);
+        amount = a;
+      } else {
+        delete money[key];
+      }
+    }
+    return money;
+    }
+    ```
